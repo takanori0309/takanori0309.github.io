@@ -1,0 +1,22 @@
+#logo{padding:20px 0;
+    text-align:left;}
+#logo img{max-width:120px;}
+body{ font-family: Yugothic"メイリオ";
+    background-color: #abb;
+    background-image: url("bg.jpg");
+    font-size: 14px;}
+nav{text-align:right;
+    background:#fff;}
+nav ul li {margin:0 20px;
+    display:inline-block;}
+nav ul li a{text-decoration: none;
+    color:#122;
+    font-weight:bold;}
+
+.aaa{text-align:center;}
+.aaa:hover{color:red;}
+
+.ccc{padding:20px 0;
+    text-align:left;}
+.ccc img{max-width:120px;}
+.ccc{display:inline-block;}
